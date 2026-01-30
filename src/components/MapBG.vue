@@ -1,6 +1,6 @@
 <template>
   <div class="relative" >
-    <div id="tianMap" class="w-full h-full">
+    <div id="tianMap" class="w-full h-full">1
     </div>
   </div>
 </template>
