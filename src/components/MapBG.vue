@@ -6,6 +6,7 @@
 </template>
 
 <script setup lang="ts">
+//我是新的
 // import { onMounted } from 'vue'
 // import { useMapStore } from '@/stores/map'
 // const initMap = () => {
