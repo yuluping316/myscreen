@@ -6,7 +6,7 @@
 </template>
 
 <script setup lang="ts">
-//我是新的
+//测试一下gitee刷新github代码
 // import { onMounted } from 'vue'
 // import { useMapStore } from '@/stores/map'
 // const initMap = () => {
